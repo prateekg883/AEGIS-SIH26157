@@ -423,7 +423,7 @@ AEGIS/
 | Name | Role / Focus Area | Profile / Contact |
 |---|---|---|
 | **Prateek Gupta** *(Team Leader)* | Full-Stack & Supervisory Analytics Architecture | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek_Gupta-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/prateek-gupta-tech/) |
-| **Team Member 2** | Backend & SIEM Normalization Engine | Galgotias University |
+| **Dewansh Gupta** | Backend & SIEM Normalization Engine | [![LinkedIn](https://www.linkedin.com/in/dewanshguptaa) |
 | **Team Member 3** | Frontend & Decision Room Visualization | Galgotias University |
 | **Team Member 4** | Threat Modeling & Negative-Space Logic | Galgotias University |
 | **Team Member 5** | Cryptographic Audit & Gateway Security | Galgotias University |
